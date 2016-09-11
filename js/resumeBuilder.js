@@ -13,7 +13,7 @@ var bio = {
   'skills': [
     'Web Development', 'Javascript', 'jQuery', 'Angular JS', 'Responsive Design', 'C#','Selenium'
   ],
-  'biopic': 'images/fry.jpg'
+  'biopic': 'images/sai_resume.jpg'
 };
 //displaying bio data 
 bio.display = function() {
